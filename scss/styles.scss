@@ -22,9 +22,11 @@
         7. Education Styles
         8. Project Styles
         9. Skills Styles
-        10. Contact Styles
-        11. Optional Section Styles
-        12. Media Queries
+        10. Languages Styles
+        11. Technologies Styles
+        12. Contact Styles
+        13. Optional Section Styles
+        14. Media Queries
 */
 
 /*
@@ -722,6 +724,12 @@ footer {
     }
 }
 
+/*
+    --------------------------------
+    ----- 10. Languages Styles -----
+    --------------------------------
+*/
+
 #languages {
     padding: 50px 15px;
     text-align: center;
@@ -749,6 +757,12 @@ footer {
         font-size: 1.2em;
     }
 }
+
+/*
+    -----------------------------------
+    ----- 11. Technologies Styles -----
+    -----------------------------------
+*/
 
 #technologies {
     padding: 50px 15px;
@@ -779,9 +793,9 @@ footer {
 }
 
 /*
-    -------------------------------
-    ----- 10. Contact Styles -----
-    -------------------------------
+    --------------------------------
+    ------ 12. Contact Styles ------
+    --------------------------------
 */
 
 #contact {
@@ -845,7 +859,7 @@ footer {
 
 /*
     ---------------------------------------
-    ----- 11. Optional Section Styles -----
+    ----- 13. Optional Section Styles -----
     ---------------------------------------
 */
 
@@ -893,7 +907,7 @@ footer {
 
 /*
     -----------------------------
-    ----- 12. Media Queries -----
+    ----- 14. Media Queries -----
     -----------------------------
 */
 
